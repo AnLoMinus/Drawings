@@ -25,7 +25,7 @@
 
 <div align="center">
 
-# ✍️ [Drawings](https://github.com/Anlominus/Drawing) ✍️
+# ✍️ [Drawings](https://github.com/Anlominus/Drawings) ✍️
 ✍️ Drawings , sketching, sketching, sketching, pumping | Painting, the art of painting, drawing  
 
 </div>
